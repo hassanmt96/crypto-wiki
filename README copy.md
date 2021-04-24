@@ -1,22 +1,9 @@
-## Cardano-Wiki official documentation
-
-- Welcome to the official documentation of my wiki application! To get started using this app you can either run `npm start` or `yarn start` (depending on whichever one you have installed.)
-
-
-- This project was made using the ReactJS library and styled using the styled-components package. 
-
-- One of the main features of this application is the overall flexibilty of how the crypto API is utilized. There are many ways to access a `GET` request from an API but one of the most popular methods that works rapidly is by using an npm package called `axios`.
-
-
-- This application still has many additional features to be added such as improved dashboard functionality for the user and the ability to track each individual crypto side-by-side. 
-
-
-
-
-
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> 57a1b90... final code
 ## Available Scripts
 
 In the project directory, you can run:
