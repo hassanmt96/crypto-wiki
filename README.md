@@ -1,4 +1,4 @@
-## Cardano-Wiki official documentation
+## Crypto-Wiki official documentation
 
 - Welcome to the official documentation of my wiki application! To get started using this app you can either run `npm start` or `yarn start` (depending on whichever one you have installed.)
 
