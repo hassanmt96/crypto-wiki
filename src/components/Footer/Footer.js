@@ -44,7 +44,6 @@ function Footer() {
           <FooterLinkItems>
             <FooterLinkTitle>About</FooterLinkTitle>
             <FooterLink to='/sign-up'>How it works</FooterLink>
-            <FooterLink to='/'>Testimonials</FooterLink>
             <FooterLink to='/'>Investors</FooterLink>
             <FooterLink to='/'>Terms of Service</FooterLink>
           </FooterLinkItems>
@@ -56,13 +55,6 @@ function Footer() {
         </FooterLinksWrapper>
         <FooterLinksWrapper>
 
-          <FooterLinkItems>
-            <FooterLinkTitle>Social Media</FooterLinkTitle>
-            <FooterLink to='/'>Instagram</FooterLink>
-            <FooterLink to='/'>GitHub</FooterLink>
-            <FooterLink to='/'>Youtube</FooterLink>
-            <FooterLink to='/'>Twitter</FooterLink>
-          </FooterLinkItems>
         </FooterLinksWrapper>
       </FooterLinksContainer>
       <SocialMedia>
@@ -74,13 +66,10 @@ function Footer() {
           <WebsiteRights>CRYPTO-WIKI © 2021</WebsiteRights>
           <SocialIcons>
 
-            <SocialIconLink href='/' target='_blank' aria-label='Instagram'>
+            <SocialIconLink href='https://www.instagram.com/thisishassanity/?hl=en' target='_blank' aria-label='Instagram'>
               <FaInstagram />
             </SocialIconLink>
-            <SocialIconLink href='/' target='_blank' aria-label='Twitter'>
-              <FaTwitter />
-            </SocialIconLink>
-            <SocialIconLink href='/' target='_blank' aria-label='LinkedIn'>
+            <SocialIconLink href='https://www.linkedin.com/in/hassan-tariq-1382b112b/' target='_blank' aria-label='LinkedIn'>
               <FaLinkedin />
             </SocialIconLink>
           </SocialIcons>
